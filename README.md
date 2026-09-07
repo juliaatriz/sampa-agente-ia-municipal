@@ -40,7 +40,6 @@ O sistema foi montado em 4 camadas:
  
 **Como a base de conhecimento foi montada:** usamos o ChatGPT para estruturar o prompt do manual de serviços (IPTU, Saúde, Zeladoria, Educação), o Claude para gerar esse manual completo em PDF, e o Gemini para definir a persona da Sampa e incorporar links de fontes oficiais do governo de SP como contexto extra.
  
-> O blueprint do fluxo no Make está em [`/docs/sampa-blueprint.json`](./docs/sampa-blueprint.json) — dá pra ver a lógica completa do Router e dos módulos.
  
 ## Desafios técnicos (e como resolvemos)
  
