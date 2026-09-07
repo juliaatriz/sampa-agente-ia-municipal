@@ -5,7 +5,7 @@ Assistente virtual desenvolvido para uma prefeitura fictícia (Serranópolis), c
 
 Projeto em grupo, desenvolvido como trabalho acadêmico.
 
- // imagem aqui
+(./imagemsampa.png) 
 
  ## Sumário
  
